@@ -8,7 +8,7 @@ const {
 } = require("discord.js");
 
 const TOKEN = process.env.TOKEN;
-const CLIENT_ID = "你的clientId"; // ⚠️ 改成应用 ID
+const CLIENT_ID = "1419202933811187712"; // ⚠️ 改成应用 ID
 
 const client = new Client({
   intents: [GatewayIntentBits.Guilds]
